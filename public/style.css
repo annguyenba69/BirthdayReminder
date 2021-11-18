@@ -1,0 +1,44 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px 0px;
+    background-color: #f28ab2;
+}
+
+
+
+#birthday-reminder{
+    width: 500px;
+    background-color: aliceblue;
+    box-shadow: 0 2px 8px;
+    padding: 10px 20px;
+    margin: 0px auto;
+    border-radius: 5px;
+}
+
+#birthday-reminder h3 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+#birthday-reminder img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.detail-birthday-reminder{
+    margin-bottom: 15px;
+}
+
+.detail-person .name {
+    font-weight: 600;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+.detail-person .old {
+    font-weight: 300;
+}
